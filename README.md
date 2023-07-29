@@ -1,2 +1,2 @@
 # Arduino
-Personnal Arduino program
+Personnal Arduino program for some student project
